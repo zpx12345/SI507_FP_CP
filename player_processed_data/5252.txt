@@ -1,0 +1,1 @@
+[{"fixture_id": 18535247, "attendence": 2, "point": 0, "host": 1, "goals": 0, "shots": 0, "shot_on_target": 0, "assists": null, "pass": 1, "rating": 6.45, "goal_classes": {"goals": {"useless_goal": [], "critica_goal": [], "plain_goal": []}, "assists": {"useless_assist": [], "critica_assist": [], "plain_assist": []}}, "time": 4}]
